@@ -1,4 +1,4 @@
-# Automated_Micro-section_drawing_digitalization
+# Automated Micro-section drawing digitalization
 Scripts for automated digitalization of hand-drawn micro-section profiles – from preprocessing to spatial database.
 
 This repository contains a set of Python scripts developed to automate the digitalization of hand-drawn stratigraphic profiles, based on field documentation forms (microsondages) collected during archaeological excavations. While digital methods such as photogrammetry or tablet-based recording are becoming more common, analog, hand-drawn field documentation remains prevalent due to limitations in funding, expertise, or methodological preference.
