@@ -80,3 +80,13 @@ The code is written to be as flexible as possible while remaining aligned with t
 To assist with testing and orientation, the repository includes a sample form (sample_form.jpg) derived from the Dukovany Project. This example allows users to verify that the scripts are working correctly and also provides insight into the structure and assumptions the code is based on.
 
 For best results, ensure your environment has all the required dependencies (see Requirements), and run the scripts step by step, inspecting the intermediate results as needed.
+
+📖 **Citation / Acknowledgement**
+
+If you use any part of this code or workflow in your research, publication, or project,  
+please acknowledge the author. A suggested citation format:
+
+> Hájek, F. (2025). *Automated digitalization of hand-drawn micro-section profiles*. GitHub repository.  
+> Available at: https://github.com/CSTAAR/Automated_Micro-section_drawing_digitalization [Accessed: date].
+
+Alternatively, feel free to contact me to discuss proper citation, adaptation to your dataset, or potential collaboration.
