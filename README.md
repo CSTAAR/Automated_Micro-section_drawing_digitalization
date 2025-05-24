@@ -3,7 +3,7 @@ Scripts for automated digitalization of hand-drawn micro-section profiles – fr
 
 This repository contains a set of Python scripts developed to automate the digitalization of hand-drawn stratigraphic profiles, based on field documentation forms (microsondages) collected during archaeological excavations. While digital methods such as photogrammetry or tablet-based recording are becoming more common, analog, hand-drawn field documentation remains prevalent due to limitations in funding, expertise, or methodological preference.
 
-The methodology was developed during the post-excavation analysis of a project conducted at the Dukovany site (Southern Moravia, Czech Republic), where 1,200 standardized forms required digitization. Manual vectorization of each form took approximately 3–4 minutes, totaling over 60 hours. The solution presented here reduces that effort significantly using Python and open-source libraries.
+The methodology was developed during the post-excavation analysis of a project conducted at the Dukovany site (Southern Moravia, Czech Republic), where 1,200 standardized forms required digitization. Manual vectorization of each form took approximately 3–4 minutes, totaling over 60 hours. The solution presented here reduces that effort significantly using Python and open-source libraries. This work was developed independently by the author, within the framework of a collaborative project with the Archaeological Institute of the Czech Academy of Sciences, Brno.
 
 🧩 **Workflow Overview**
 The process consists of four custom scripts, each responsible for a specific phase of the digitalization pipeline:
